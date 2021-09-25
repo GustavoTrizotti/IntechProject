@@ -1,0 +1,91 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500&display=swap');
+
+* {
+    font-family: 'Poppins', sans-serif;
+    font-weight: 300;
+}
+
+#nav_bar {
+    background-color: #262626;
+}
+
+#card-s {
+    height: 100%;
+    transition: all 0.3s ease 0s;
+}
+
+#card-s:hover {
+    box-shadow: 4px 4px 15px rgba(0, 0, 0, 0.397);
+}
+
+#img-s {
+    transition: all 0.3s ease 0s;
+}
+
+#img-s:hover {
+    box-shadow: 4px 4px 15px rgba(0, 0, 0, 0.397);
+}
+
+.carousel-indicators li {
+    width: 10px;
+    height: 10px;
+    border-radius: 100%;
+}
+
+#carousel-s {
+    width: 400px;
+}
+
+#card-s2 {
+    transition: all 0.3s ease 0s;
+}
+
+#card-s2:hover {
+    box-shadow: 4px 4px 15px rgba(0, 0, 0, 0.397);
+}
+
+#box {
+    height: 600px;
+    color: white;
+    background-color: #262626;
+    background-position: center;
+    background-size: cover;
+}
+
+#title {
+    margin-top: 10vw;
+    margin-left: 5vw;
+}
+
+#text {
+    margin-left: 5vw;
+    width: 400px;
+}
+
+#button {
+    margin-left: 5vw;
+    margin-top: 2vw;
+}
+
+.offcanvas {
+    min-height: 500px;
+}
+
+.box{
+    margin: 5vw auto;
+    width: 400px;
+
+}
+
+.box2 {
+    margin: 10vw 0;
+}
+
+#bg {
+    background-color: #262626;
+    color: white
+}
+
+#background-footer {
+    background-color: #262626;
+}
